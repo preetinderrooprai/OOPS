@@ -1,0 +1,15 @@
+C:\Users\Megha\OneDrive\Desktop\Preetinder\Restart\Grade1\bin\Debug\net6.0\Grade1.exe
+C:\Users\Megha\OneDrive\Desktop\Preetinder\Restart\Grade1\bin\Debug\net6.0\Grade1.deps.json
+C:\Users\Megha\OneDrive\Desktop\Preetinder\Restart\Grade1\bin\Debug\net6.0\Grade1.runtimeconfig.json
+C:\Users\Megha\OneDrive\Desktop\Preetinder\Restart\Grade1\bin\Debug\net6.0\Grade1.dll
+C:\Users\Megha\OneDrive\Desktop\Preetinder\Restart\Grade1\bin\Debug\net6.0\Grade1.pdb
+C:\Users\Megha\OneDrive\Desktop\Preetinder\Restart\Grade1\obj\Debug\net6.0\Grade1.csproj.AssemblyReference.cache
+C:\Users\Megha\OneDrive\Desktop\Preetinder\Restart\Grade1\obj\Debug\net6.0\Grade1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Megha\OneDrive\Desktop\Preetinder\Restart\Grade1\obj\Debug\net6.0\Grade1.AssemblyInfoInputs.cache
+C:\Users\Megha\OneDrive\Desktop\Preetinder\Restart\Grade1\obj\Debug\net6.0\Grade1.AssemblyInfo.cs
+C:\Users\Megha\OneDrive\Desktop\Preetinder\Restart\Grade1\obj\Debug\net6.0\Grade1.csproj.CoreCompileInputs.cache
+C:\Users\Megha\OneDrive\Desktop\Preetinder\Restart\Grade1\obj\Debug\net6.0\Grade1.dll
+C:\Users\Megha\OneDrive\Desktop\Preetinder\Restart\Grade1\obj\Debug\net6.0\refint\Grade1.dll
+C:\Users\Megha\OneDrive\Desktop\Preetinder\Restart\Grade1\obj\Debug\net6.0\Grade1.pdb
+C:\Users\Megha\OneDrive\Desktop\Preetinder\Restart\Grade1\obj\Debug\net6.0\Grade1.genruntimeconfig.cache
+C:\Users\Megha\OneDrive\Desktop\Preetinder\Restart\Grade1\obj\Debug\net6.0\ref\Grade1.dll
